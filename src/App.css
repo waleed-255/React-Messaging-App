@@ -1,4 +1,42 @@
-.App {
+
+
+body {
+  background: #f0f2f5;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #075e54;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  border-radius: 20px;
+  border: 1px solid gray;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  background: #25d366;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+p {
+  background: white;
+  padding: 10px;
+  width: 300px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +73,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
